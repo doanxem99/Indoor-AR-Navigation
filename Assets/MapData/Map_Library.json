@@ -1,0 +1,34 @@
+{
+
+    "destinations":
+    [
+        {
+            "id": 101,
+            "info": "Quầy tham khảo",
+            "description": "Đây là quầy tham khảo",
+            "fileType": "text",
+            "fileURL": "."
+        },
+        {
+            "id": 102,
+            "info": "2 phòng học nhóm",
+            "description": "Đây là phòng học nhóm",
+            "fileType": "text",
+            "fileURL": "."
+        },
+        {
+            "id": 103,
+            "info": "Khu tự học",
+            "description": "Đây là khu vực tự học",
+            "fileType": "text",
+            "fileURL": "."
+        },
+        {
+            "id": 104,
+            "info": "Khu vực máy tính",
+            "description": "Đây là khu vực máy tính cho các bạn sinh viên dùng",
+            "fileType": "text",
+            "fileURL": "."
+        }
+    ]
+}
