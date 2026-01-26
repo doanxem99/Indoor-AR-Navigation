@@ -232,6 +232,7 @@ When contributing to this project:
 ## License
 
 This project is developed for library indoor navigation purposes.
+MIT License. See LICENSE file for details.
 
 ## Acknowledgments
 
@@ -245,4 +246,4 @@ For questions, issues, or suggestions, please open an issue in the repository.
 
 ---
 
-Last Updated: January 2026
+Last Updated: 26 January 2026
