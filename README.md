@@ -202,33 +202,6 @@ max_height = 0.48  # 48cm threshold
 - Verify the correct map is loaded for current location
 - Check AR tracking quality indicator
 
-## Contributing
-
-When contributing to this project:
-1. Create a feature branch
-2. Follow Unity C# coding conventions
-3. Test on both Android and iOS if possible
-4. Update documentation for new features
-5. Submit pull request with detailed description
-
-## Technical Notes
-
-### Coordinate System
-- Unity uses left-handed Y-up coordinate system
-- Grid maps use X-Z plane for 2D navigation
-- Y-axis represents vertical height
-
-### Grid Map Format
-- Text-based 2D array
-- 0 = Walkable space
-- 1 = Obstacle
-- Cell size configurable (default 0.25m)
-
-### Performance Optimization
-- Point cloud processing runs on separate thread
-- Grid map cached in memory during navigation
-- AR features optimized for mobile devices
-
 ## License
 
 This project is developed for library indoor navigation purposes.
@@ -240,10 +213,6 @@ MIT License. See LICENSE file for details.
 - Uses XR Interaction Toolkit for AR interactions
 - Point cloud processing powered by Open3D
 
-## Contact
-
-For questions, issues, or suggestions, please open an issue in the repository.
-
 ---
 
-Last Updated: 26 January 2026
+Last Updated: 29 January 2026
