@@ -7,7 +7,7 @@ An augmented reality indoor navigation system for library environments built wit
 Library AR Navigation is a comprehensive AR solution that enables users to:
 - Scan and map indoor library spaces using AR technology
 - Convert 3D point cloud data into 2D navigable grid maps
-- Provide turn-by-turn AR navigation within library buildings
+- Provide turn-by-turn AR navigation within library/indoor buildings
 - Synchronize real-world positions with virtual maps using QR codes
 
 ## Features
